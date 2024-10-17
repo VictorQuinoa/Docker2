@@ -10,6 +10,7 @@ Aparece instalada.
 
 ## Crea un contenedor con el nombre 'dam_web1'.
 
+**sudo docker run --dam_web1 -it httpd**
 
 ## Si quieres poder acceder desde el navegador de tu equipo, ¿que debes hacer?
 

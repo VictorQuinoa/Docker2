@@ -28,7 +28,9 @@ Y despues usar el comando:
 
 Creo un archivo usando este comando:
 
-**echo "<html><body><h1>Hola Mundo</h1></body></html>" >/home/accesodatos/SXE/WebApache/index.html**
+```
+echo "<html><body><h1>Hola Mundo</h1></body></html>" >/home/accesodatos/SXE/WebApache/index.html
+```
 
 Y para comprobar si funciona, desde el navegador de la maquina virtual y el de fuera pongo:
 

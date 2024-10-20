@@ -50,3 +50,5 @@ Para esto usamos el mismo comando anterior cambiando el puerto:
 Al tener el mismo bind mount, al acceder se muestra la misma página con el mensaje de "Hola Mundo"
 
 ## Realiza modificaciones de la página y comprueba que los dos servidores 'sirven' la misma página
+
+Cuando se modifica el archivo de la página, al estar los dos servidores montados en base al mismo archivo, ambos se actualizan de igual manera.

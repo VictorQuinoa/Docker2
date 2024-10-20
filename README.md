@@ -47,4 +47,6 @@ Para esto usamos el mismo comando anterior cambiando el puerto:
 ### http://localhost:9080 
 ### http://localhost:8000
 
+Al tener el mismo bind mount, al acceder se muestra la misma página con el mensaje de "Hola Mundo"
+
 ## Realiza modificaciones de la página y comprueba que los dos servidores 'sirven' la misma página
